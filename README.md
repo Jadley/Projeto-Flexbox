@@ -1,7 +1,5 @@
 # Jadley Turismos
-
-![image](https://github.com/Jadley/Projeto-Flexbox/assets/104441986/46b24a02-1f98-48db-aed1-7bbcff388c2a)
-![image](https://github.com/Jadley/Projeto-Flexbox/assets/104441986/01aab170-11ab-4936-b470-172001a665d2)
-
-Projeto integrador flex-box css ministrado pela Dio,
-trabalhando os fundamentos do Css e Html.
+![image](https://github.com/Jadley/Projeto-Flexbox/assets/104441986/55aa8efb-4e52-4904-aa65-8ff97fe40472)
+##Projeto integrador flex-box css ministrado pela Dio
+![image](https://github.com/Jadley/Projeto-Flexbox/assets/104441986/a12115a0-30d2-4360-b1b4-8d49f5cf9f74)
+##trabalhando os fundamentos do Css e Html.
